@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
-bag = rosbag.Bag('/home/g4user-18/Desktop/test_/2021-05-28-13-33-04.bag')
+bag = rosbag.Bag('2021-05-28-13-33-04.bag')
 # print(bag.get_type_and_topic_info())
 time = list()
 segs_size = list()
