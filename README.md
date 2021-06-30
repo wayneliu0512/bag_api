@@ -21,3 +21,7 @@ It's a example show how to filter a last message from a bag file, and write to a
 #### [`replay_bag_trajectory.py`](replay_bag_trajectory.py)
 
 It's a example to replay a bag file used by bag api.
+
+#### [`report_mgr_benchmark.py`](report_mgr_benchmark.py)
+
+Show mgr benchmark in a table from bag, and export `.csv` file.
